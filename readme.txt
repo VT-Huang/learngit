@@ -1,1 +1,3 @@
 学习GIT
+
+1、添加一个Python写的telnet小程序到远程库
